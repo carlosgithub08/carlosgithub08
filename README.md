@@ -23,4 +23,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosgithub08&show_icons=true&locale=en&layout=compact" alt="carlosgithub08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosgithub08&show_icons=true&locale=en" alt="carlosgithub08" /></p>
-<embed src="https://github.com/carlosgithub08/carlosgithub08/blob/main/CV-Resume_Carlos%20Alvarez_U-August-2023.pdf" type="application/pdf" width="100%" height="600px" />
+<body>
+    <h1>PDF Example by Object Tag</h1>
+    <object data="CV-Resume_Carlos Alvarez_U-August-2023.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="CV-Resume_Carlos Alvarez_U-August-2023.pdf">Download</a> instead.</p>
+    </object>
+  </body>
