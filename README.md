@@ -23,9 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosgithub08&show_icons=true&locale=en&layout=compact" alt="carlosgithub08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosgithub08&show_icons=true&locale=en" alt="carlosgithub08" /></p>
-<body>
-    <h1>PDF Example by Object Tag</h1>
-    <object data="CV-Resume_Carlos Alvarez_U-August-2023.pdf" type="application/pdf" width="100%" height="500px">
-      <p>Unable to display PDF file. <a href="CV-Resume_Carlos Alvarez_U-August-2023.pdf">Download</a> instead.</p>
-    </object>
-  </body>
+<h3 align="left">CV Carlos Alvarez PDF</h3>
+<p align="left">
+<a href="CV-Resume_Carlos Alvarez_U-August-2023.pdf" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/adobe-pdf3324.jpg" alt="https://www.linkedin.com/in/carlos-%c3%a1lvarez-470330a3/" height="30" width="40" /></a>
+</p>
