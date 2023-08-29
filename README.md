@@ -23,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosgithub08&show_icons=true&locale=en&layout=compact" alt="carlosgithub08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosgithub08&show_icons=true&locale=en" alt="carlosgithub08" /></p>
+<embed src="https://github.com/carlosgithub08/carlosgithub08/blob/main/CV-Resume_Carlos%20Alvarez_U-August-2023.pdf" type="application/pdf" width="100%" height="600px" />
