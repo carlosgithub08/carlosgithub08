@@ -27,3 +27,8 @@
 <p align="left">
 <a href="CV-Resume_Carlos Alvarez_U-August-2023.pdf" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/adobe-pdf3324.jpg" alt="https://www.linkedin.com/in/carlos-%c3%a1lvarez-470330a3/" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Psychometric Info - Carlos Alvarez</h3>
+<p align="left">
+<a href="Carlos-AlvarezUgalde-1693846215402-Psychometric.pdf" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/adobe-pdf3324.jpg" alt="https://www.linkedin.com/in/carlos-%c3%a1lvarez-470330a3/" height="30" width="40" /></a>
+</p>
